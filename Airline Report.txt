@@ -1,0 +1,15 @@
+The project aimed to determine the satisfaction level of passengers of Maven Airline. The data was 
+collected from a survey of the airline's passengers.
+
+PROBLEM - Determine the satisfaction of passengers with the Airline's services
+
+SOLUTION
+- Almost 60% of the passengers were dissatisfied with the Airliine's services
+- Female Passengers were more dissatisfied than male passengers
+- Passengers betweeen in their early 20s to late 30s were the most dissatisfied while passengers
+  above the age of 40 showed a higher level of satisfaction
+- More passengers in Economy class were satisfied with the services than passengers in Business 
+  class
+- Passengers that traveled for business showed a higher level of satisfaction than passengers 
+  that traveled for personal reasons
+- The passengers were most dissatisfied with the In-flight Wifi and Ease of Online booking
